@@ -48,3 +48,15 @@ https://www.youtube.com/watch?v=p2vx-JliElY
 
 - Google Web speech API
 https://wicg.github.io/speech-api/#speechreco-events
+
+- Speech Recognition repo
+https://github.com/Uberi/speech_recognition/tree/master
+
+- pretrained model
+https://github.com/kpu/kenlm
+
+- the method to train your own STT model
+https://www.youtube.com/watch?v=YereI6Gn3bM
+
+- How to Use Google Sheets With Python (2023)
+https://www.youtube.com/watch?v=bu5wXjz2KvU
